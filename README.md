@@ -12,4 +12,4 @@ base classifier. It reported the best evaluation criteria (highest accuracy scor
 With moderate to high accuracy scores, the models and derived applications may inform the decisions of coaches, physical
 trainers and medical practitioners when faced with a player’s illness or injury.
 
-# YouTube Video Demonstration: https://www.youtube.com/watch?v=uUj67bVPUhA
+## YouTube Video Demonstration: https://www.youtube.com/watch?v=uUj67bVPUhA
